@@ -36,7 +36,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/Rehabilitation_AI/emg-prosthetic-control.git
+git clone https://github.com/Elahe-RehabAI/emg-prosthetic-control.git
 cd emg-prosthetic-control
 
 
